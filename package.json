@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "@discordjs/voice": "^0.17.0",
-    "axios": ">=1.6.8",
+    "axios": ">=1.17.0",
     "better-sqlite3": "^11.1.2",
     "cheerio": "^1.0.0-rc.12",
     "discord.js": "^14.26.4",
